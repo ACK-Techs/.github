@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#12203A"/>
+      <stop offset="1" stop-color="#1A3358"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="80" x2="1420" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F6FED" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#5B8DEF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#E8EEF9" stop-opacity="0.08"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 120) rotate(90) scale(260 360)">
+      <stop stop-color="#2F6FED" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2F6FED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#accent)"/>
+  <circle cx="1180" cy="120" r="260" fill="url(#glow)"/>
+  <path d="M0 320C220 280 360 360 520 340C720 315 820 250 1020 270C1220 290 1360 350 1600 300V420H0V320Z" fill="#0A101C" fill-opacity="0.55"/>
+  <g opacity="0.35">
+    <circle cx="240" cy="110" r="3" fill="#9DB7FF"/>
+    <circle cx="310" cy="160" r="2" fill="#9DB7FF"/>
+    <circle cx="430" cy="90" r="2.5" fill="#9DB7FF"/>
+    <circle cx="980" cy="80" r="2" fill="#9DB7FF"/>
+    <circle cx="1380" cy="190" r="3" fill="#9DB7FF"/>
+  </g>
+  <text x="80" y="175" fill="#E8EEF9" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" letter-spacing="2">ACK Techs</text>
+  <text x="84" y="230" fill="#A9B8D4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28">Gerçek problemlere çözüm üreten bir startup</text>
+  <rect x="84" y="268" width="120" height="4" rx="2" fill="#2F6FED"/>
+</svg>
