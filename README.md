@@ -106,8 +106,7 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <br/><br/>
       <p align="left">
         Backend sistemler, AI agent workflow'ları ve mikroservis mimarileri üzerine çalışıyor.
-        Üniversite boyunca edindiği ~2.5 yıllık deneyimle canlıda test edilen ürünler geliştirdi;
-        reklam bütçesi olmadan 300+ indirmeye ulaşan uygulamalar yayınladı.
+        Üniversite boyunca edindiği ~2.5 yıllık deneyimle canlıya alınan 20'ye yakın ürüne sahip.
         Immense, Watchtower ve Sentinel gibi ürünlerin arkasındaki isim.
       </p>
       <p>
