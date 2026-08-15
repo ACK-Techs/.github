@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/banner.svg" alt="ACK Techs" width="100%" />
 
 <br/>
-
+ 
 # ACK Techs
 
 ### Gerçek problemlere çözüm üreten bir startup
