@@ -99,15 +99,16 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/123293786?v=4" width="110" height="110" alt="Ali Çağlar Koçer" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ali-caglar-kocer.png" width="110" height="110" alt="Ali Çağlar Koçer" />
       <br/><br/>
       <h3><a href="https://github.com/caglarkc">Ali Çağlar Koçer</a></h3>
       <img src="https://img.shields.io/badge/Kurucu-Backend%20%26%20AI-111111?style=flat-square" alt="role" />
       <br/><br/>
       <p align="left">
-        Backend sistemler, AI agent workflow'ları ve mikroservis mimarileri üzerine çalışıyor.
-        Üniversite boyunca edindiği ~2.5 yıllık deneyimle canlıya alınan 20'ye yakın ürüne sahip.
-        Immense, Watchtower ve Sentinel gibi ürünlerin arkasındaki isim.
+        Ekibin kurucusu. Backend ve AI tarafında geliştirmeye ve mentorluğa destek olurken
+        projelerin yönetimini de üstleniyor. ~2.5 yıllık sektör deneyiminde Python, Go ve .NET
+        başta olmak üzere backend sistemler, AI agent workflow'ları ve mikroservis mimarileri
+        üzerine çalıştı. Immense, Watchtower ve Sentinel gibi ürünlerin arkasındaki isim.
       </p>
       <p>
         <a href="https://github.com/caglarkc">GitHub</a> ·
@@ -115,16 +116,16 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/98668411?v=4" width="110" height="110" alt="Seyfullah Korkmaz" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/seyfullah-korkmaz.png" width="110" height="110" alt="Seyfullah Korkmaz" />
       <br/><br/>
       <h3><a href="https://github.com/xPoleStarx">Seyfullah Korkmaz</a></h3>
       <img src="https://img.shields.io/badge/AI%20Engineer-ML%20%26%20Agents-2F6FED?style=flat-square" alt="role" />
       <br/><br/>
       <p align="left">
-        Yapay zekanın her alanına meraklı bir AI engineer. Upwork üzerinden global müşterilerle
-        çalışıyor; LSTM, mantıksal çıkarım ve agent tabanlı sistemler üzerine projeler üretiyor.
-        Minesweeper AI'dan iklim tahmin modellerine kadar uygulamalı ML deneyimini
-        ACK Techs ürünlerine taşıyor.
+        Karadeniz Holding'de AI çözümleri geliştiriyor; Upwork üzerinden de global müşterilerle
+        çalışıyor. LSTM, mantıksal çıkarım ve agent tabanlı sistemler üzerine projeler üretiyor.
+        İklim tahmin modellerinden uygulamalı ML çalışmalarına kadar biriktirdiği deneyimi
+        hem ürünlere hem de ekibin yürütülmesine taşıyor.
       </p>
       <p>
         <a href="https://github.com/xPoleStarx">GitHub</a> ·
@@ -135,16 +136,17 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://avatars.githubusercontent.com/u/138040375?v=4" width="110" height="110" alt="Doğukan Taha Tıraş" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/dogukan-taha-tiras.png" width="110" height="110" alt="Doğukan Taha Tıraş" />
       <br/><br/>
       <h3><a href="https://github.com/dodovlski">Doğukan Taha Tıraş</a></h3>
-      <img src="https://img.shields.io/badge/Data%20%26%20ML-End--to--End-0A7A3E?style=flat-square" alt="role" />
+      <img src="https://img.shields.io/badge/Frontend%20Developer-Web%20%26%20Ürün-0A7A3E?style=flat-square" alt="role" />
       <br/><br/>
       <p align="left">
-        Bilgisayar mühendisliği öğrencisi; veri bilimi, yapay zeka ve makine öğrenmesi
-        odaklı uçtan uca projeler geliştiriyor. BTK / Google datathon'larında yarışmış,
-        recommendation sistemleri ve ML team çalışmalarında yer almış.
-        Operasyon disiplinini de sahadan bilen biri.
+        Türk Hava Yolları'nda yarı zamanlı çalışırken ACK Techs'te frontend geliştirme
+        süreçlerini ve ekip yürütülmesini üstleniyor. Bilgisayar mühendisliği öğrencisi;
+        veri bilimi, yapay zeka ve makine öğrenmesi odaklı uçtan uca projeler de üretiyor.
+        BTK / Google datathon'ları, recommendation sistemleri ve Flask tabanlı web uygulamaları
+        deneyimini ürün arayüzlerine taşıyor.
       </p>
       <p>
         <a href="https://github.com/dodovlski">GitHub</a> ·
@@ -153,16 +155,16 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://avatars.githubusercontent.com/u/97344591?v=4" width="110" height="110" alt="Ayşenur Demezoğlu" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.svg" width="110" height="110" alt="Ayşenur Demezoğlu" />
       <br/><br/>
       <h3><a href="https://github.com/aysenurdemezoglu">Ayşenur Demezoğlu</a></h3>
-      <img src="https://img.shields.io/badge/Full--stack-Backend%20%2B%20Mobile-7A3E9D?style=flat-square" alt="role" />
+      <img src="https://img.shields.io/badge/Frontend%20Developer-Web%20%26%20Mobile-7A3E9D?style=flat-square" alt="role" />
       <br/><br/>
       <p align="left">
-        Bilgisayar mühendisliği son sınıf öğrencisi; backend, mobil ve web geliştirme
-        tutkunluğuyla ürün tarafına yakın duruyor. Flutter ve React ile uygulamalar
-        geliştiriyor, Teknopark sunumlarında projelerini sahneye taşıyor.
-        Fikirleri çalışan arayüzlere dönüştüren isim.
+        Full-stack ve backend staj deneyimleri bulunan yeni mezun bilgisayar mühendisi.
+        Backend ile mobil/web geliştirmeye yakın duruyor; Flutter ve React ile uygulamalar
+        üretiyor. Muğla Teknopark sunumlarında projelerini sahneye taşımış,
+        fikirleri çalışan arayüzlere dönüştüren isim.
       </p>
       <p>
         <a href="https://github.com/aysenurdemezoglu">GitHub</a> ·
@@ -171,17 +173,77 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/sude-serra.svg" width="110" height="110" alt="Sude Serra Sağdıç" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/sude-serra-sagdic.png" width="110" height="110" alt="Sude Serra Sağdıç" />
       <br/><br/>
-      <h3>Sude Serra Sağdıç</h3>
-      <img src="https://img.shields.io/badge/Kurucu%20Ekip-Ürün%20%26%20Koordinasyon-C45C26?style=flat-square" alt="role" />
+      <h3><a href="https://github.com/sudeserra">Sude Serra Sağdıç</a></h3>
+      <img src="https://img.shields.io/badge/Backend%20Developer-QA%20%26%20Sistem-C45C26?style=flat-square" alt="role" />
       <br/><br/>
-      <p align="center" style="max-width:640px">
-        ACK Techs'in kurucu ekibinden. Ürünleri gerçek kullanıcılarla buluşturma,
-        ekip temposunu tutma ve fikrin sahadaki karşılığını takip etme tarafında
-        katkı sağlıyor. Building in public yolculuğunun görünür yüzlerinden biri.
+      <p align="left">
+        Software Engineering eğitiminin yanında QA Engineering deneyimi bulunan Sude,
+        ekibin backend geliştirme tarafında görev alıyor. Ürünlerin hem çalışmasını
+        hem de kalitesini önemseyen bir bakışla sistemleri ayağa kaldırmaya odaklanıyor.
+      </p>
+      <p>
+        <a href="https://github.com/sudeserra">GitHub</a> ·
+        <a href="https://linkedin.com/in/sude-serra-sa%C4%9Fd%C4%B1%C3%A7-a3a35b29a">LinkedIn</a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/beyza-onar.png" width="110" height="110" alt="Beyza Onar" />
+      <br/><br/>
+      <h3><a href="https://github.com/beyzaonarr">Beyza Onar</a></h3>
+      <img src="https://img.shields.io/badge/AI%20Engineer-Computer%20Vision-1A5276?style=flat-square" alt="role" />
+      <br/><br/>
+      <p align="left">
+        Muğla Sıtkı Koçman Üniversitesi'nde bilgisayar mühendisliği okuyor; computer vision
+        stajlarında YOLO tabanlı gerçek zamanlı yangın ve duman tespiti üzerine çalıştı.
+        MSKÜ Bilgisayar ve Bilişim Topluluğu'nda bir dönem başkanlık yaptı, BİLMÖK 2027
+        organizasyon komitesine liderlik ediyor. Teknik üretimle ekip yönetimini birlikte yürütüyor.
+      </p>
+      <p>
+        <a href="https://github.com/beyzaonarr">GitHub</a> ·
+        <a href="https://linkedin.com/in/beyza-onar48">LinkedIn</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/zeliha-kavak.png" width="110" height="110" alt="Zeliha Kavak" />
+      <br/><br/>
+      <h3><a href="https://github.com/zzelihakavak">Zeliha Kavak</a></h3>
+      <img src="https://img.shields.io/badge/Backend%20%26%20Cyber%20Security-G%C3%BCvenli%20Sistemler-922B21?style=flat-square" alt="role" />
+      <br/><br/>
+      <p align="left">
+        Karabük Üniversitesi bilgisayar mühendisliği mezunu. TECHNATOLIA'da full-stack,
+        Federal Mogul'da yazılım stajları ve TEI — TUSAŞ Motor Sanayii Havacılık Motorları
+        Okulu deneyimleri var. IEEE'de genel sekreterlik yaptı, Siber Vatan programını
+        tamamladı; bitirme projesinde IoT güvenliği, post-kuantum kriptografi ve zero trust
+        mimarisi üzerine çalıştı.
+      </p>
+      <p>
+        <a href="https://github.com/zzelihakavak">GitHub</a> ·
+        <a href="https://linkedin.com/in/zelihakavak">LinkedIn</a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ipek-bolakca.png" width="110" height="110" alt="İpek Bolakça" />
+      <br/><br/>
+      <h3><a href="https://linkedin.com/in/ipekbolakca">İpek Bolakça</a></h3>
+      <img src="https://img.shields.io/badge/Product%20%26%20Marketing-Strateji-8B3A62?style=flat-square" alt="role" />
+      <br/><br/>
+      <p align="left">
+        Ürün tasarımı, iş geliştirme ve dijital pazarlama deneyimiyle ürün, marka,
+        sosyal medya ve pazarlama süreçlerine destek oluyor. UX stratejisi ve iş hedeflerini
+        tasarımla birleştiriyor; Calisto Digital, Outliner Agency ve kurumsal iletişim
+        rollerinde SaaS, CRM ve marka dönüşümü projeleri yürüttü.
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/ipekbolakca">LinkedIn</a>
       </p>
     </td>
   </tr>
