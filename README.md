@@ -175,37 +175,32 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/sude-serra-sagdic.png" width="110" height="110" alt="Sude Serra Sağdıç" />
+      <img src="https://ui-avatars.com/api/?name=Ozan+G%C3%B6k%C3%A7e&size=220&background=2F6FED&color=fff&bold=true" width="110" height="110" alt="Ozan Gökçe" />
       <br/><br/>
-      <h3><a href="https://github.com/sudeserra">Sude Serra Sağdıç</a></h3>
-      <img src="https://img.shields.io/badge/Backend%20Developer-QA%20%26%20Sistem-C45C26?style=flat-square" alt="role" />
+      <h3><a href="https://www.linkedin.com/in/ozangkce/">Ozan Gökçe</a></h3>
+      <img src="https://img.shields.io/badge/UX%2FUI%20Designer-Product%20Design-2F6FED?style=flat-square" alt="role" />
       <br/><br/>
       <p align="left">
-        Software Engineering eğitiminin yanında QA Engineering deneyimi bulunan Sude,
-        ekibin backend geliştirme tarafında görev alıyor. Ürünlerin hem çalışmasını
-        hem de kalitesini önemseyen bir bakışla sistemleri ayağa kaldırmaya odaklanıyor.
+        ACK Techs'in UX/UI Designer'ı. Ürünlerin kullanıcı deneyimini ve arayüzlerini
+        daha anlaşılır, erişilebilir ve tutarlı hale getirmek için tasarım süreçlerine destek oluyor.
       </p>
       <p>
-        <a href="https://github.com/sudeserra">GitHub</a> ·
-        <a href="https://linkedin.com/in/sude-serra-sa%C4%9Fd%C4%B1%C3%A7-a3a35b29a">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/ozangkce/">LinkedIn</a>
       </p>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/beyza-onar.png" width="110" height="110" alt="Beyza Onar" />
+      <img src="https://ui-avatars.com/api/?name=Sena+Demirba%C5%9F&size=220&background=1A5276&color=fff&bold=true" width="110" height="110" alt="Sena Demirbaş" />
       <br/><br/>
-      <h3><a href="https://github.com/beyzaonarr">Beyza Onar</a></h3>
-      <img src="https://img.shields.io/badge/AI%20Engineer-Computer%20Vision-1A5276?style=flat-square" alt="role" />
+      <h3><a href="https://www.linkedin.com/in/sena-demirbas/">Sena Demirbaş</a></h3>
+      <img src="https://img.shields.io/badge/AI%20Student-Öğrenci%20Desteği-1A5276?style=flat-square" alt="role" />
       <br/><br/>
       <p align="left">
-        Muğla Sıtkı Koçman Üniversitesi'nde bilgisayar mühendisliği okuyor; computer vision
-        stajlarında YOLO tabanlı gerçek zamanlı yangın ve duman tespiti üzerine çalıştı.
-        MSKÜ Bilgisayar ve Bilişim Topluluğu'nda bir dönem başkanlık yaptı, BİLMÖK 2027
-        organizasyon komitesine liderlik ediyor. Teknik üretimle ekip yönetimini birlikte yürütüyor.
+        Yapay zeka ve veri bilimi alanında kendini geliştiren öğrenci ekip arkadaşımız.
+        Öğrenme odaklı yaklaşımıyla AI projelerine ve ekibin üretim süreçlerine destek veriyor.
       </p>
       <p>
-        <a href="https://github.com/beyzaonarr">GitHub</a> ·
-        <a href="https://linkedin.com/in/beyza-onar48">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/sena-demirbas/">LinkedIn</a>
       </p>
     </td>
   </tr>
@@ -246,6 +241,21 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
         <a href="https://linkedin.com/in/ipekbolakca">LinkedIn</a>
       </p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://ui-avatars.com/api/?name=Mehmet+Do%C4%9Fukan+%C3%96zer&size=220&background=1A5276&color=fff&bold=true" width="110" height="110" alt="Mehmet Doğukan Özer" />
+      <br/><br/>
+      <h3>Mehmet Doğukan Özer</h3>
+      <img src="https://img.shields.io/badge/AI%20Student-Öğrenci%20Desteği-1A5276?style=flat-square" alt="role" />
+      <br/><br/>
+      <p align="left">
+        Yapay zeka alanında kendini geliştiren öğrenci ekip arkadaşımız. Araştırma ve proje
+        çalışmalarına öğrenme odaklı katkı sunarak ekibin AI tarafındaki üretim süreçlerini destekliyor.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top"></td>
   </tr>
 </table>
 
