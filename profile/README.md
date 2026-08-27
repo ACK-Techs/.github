@@ -155,7 +155,7 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.svg" width="110" height="110" alt="Ayşenur Demezoğlu" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.jpeg" width="110" height="110" alt="Ayşenur Demezoğlu" />
       <br/><br/>
       <h3><a href="https://github.com/aysenurdemezoglu">Ayşenur Demezoğlu</a></h3>
       <img src="https://img.shields.io/badge/Frontend%20Developer-Web%20%26%20Mobile-7A3E9D?style=flat-square" alt="role" />
@@ -175,7 +175,7 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://ui-avatars.com/api/?name=Ozan+G%C3%B6k%C3%A7e&size=220&background=2F6FED&color=fff&bold=true" width="110" height="110" alt="Ozan Gökçe" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ozan-gokce.jpeg" width="110" height="110" alt="Ozan Gökçe" />
       <br/><br/>
       <h3><a href="https://www.linkedin.com/in/ozangkce/">Ozan Gökçe</a></h3>
       <img src="https://img.shields.io/badge/UX%2FUI%20Designer-Product%20Design-2F6FED?style=flat-square" alt="role" />
@@ -190,7 +190,7 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://ui-avatars.com/api/?name=Sena+Demirba%C5%9F&size=220&background=1A5276&color=fff&bold=true" width="110" height="110" alt="Sena Demirbaş" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/sena-demirbas.jpeg" width="110" height="110" alt="Sena Demirbaş" />
       <br/><br/>
       <h3><a href="https://www.linkedin.com/in/sena-demirbas/">Sena Demirbaş</a></h3>
       <img src="https://img.shields.io/badge/AI%20Student-Öğrenci%20Desteği-1A5276?style=flat-square" alt="role" />
