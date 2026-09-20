@@ -128,17 +128,6 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p><a href="https://github.com/aysenurdemezoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aysenurdemezoglu/">LinkedIn</a></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ozan-gokce.jpeg" width="110" height="110" alt="Ozan Berk Gökçe" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/ozangkce/">Ozan Berk Gökçe</a></h3>
-      <p><strong>UX/UI Designer</strong><br/>Freelance &amp; Artist</p>
-      <p align="left">İnsan-makine etkileşimi, Figma tasarım sistemleri (Design Tokens), kullanıcı deneyimi araştırmaları ve prototipleme.</p>
-      <p>Figma · Design Systems · UX Research · HCI</p>
-      <p><a href="https://www.linkedin.com/in/ozangkce/">LinkedIn</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/batuhan-evleksiz.jpeg" width="110" height="110" alt="Batuhan Evleksiz" />
       <br/><br/>
       <h3><a href="https://www.linkedin.com/in/batuhanevleksiz/">Batuhan Evleksiz</a></h3>
@@ -147,6 +136,8 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p>React · TypeScript · Full-Stack · AI</p>
       <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayselin-aydogdu.png" width="110" height="110" alt="Ayselin Aydoğdu" />
       <br/><br/>
@@ -156,8 +147,6 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p>LLM · AI Agents · Python · Eval</p>
       <p><a href="https://www.linkedin.com/in/ayselin-aydo%C4%9Fdu-b4a783293/">LinkedIn</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayse-sena.png" width="110" height="110" alt="Ayşe Sena Bağdat" />
       <br/><br/>
@@ -167,6 +156,8 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p>AI · Data · Cybersecurity · Research</p>
       <p><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">LinkedIn</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/mehmet-yildiz.png" width="110" height="110" alt="Mehmet Yıldız" />
       <br/><br/>
@@ -176,8 +167,6 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p>Python · SQL · Data Eng · ML</p>
       <p><a href="https://www.linkedin.com/in/mehmetyildizbst/">LinkedIn</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aynur.jpeg" width="110" height="110" alt="Aynur Oruçoğlu" />
       <br/><br/>
@@ -186,15 +175,6 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p align="left">AI algoritmaları (Python, TensorFlow, OpenCV) ve modern web teknolojileriyle uçtan uca ürün geliştiren yazılım mühendisi adayıyım. Sadece veri işlemekle veya model eğitmekle kalmıyor, tasarladığım arayüzleri güçlü arka plan sistemleriyle entegre ederek veriyi kullanıcıya doğrudan dokunan, işlevsel ve estetik projelere dönüştürüyorum.</p>
       <p>Python · TensorFlow · OpenCV · Full-Stack</p>
       <p><a href="https://github.com/aynurorucoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aynur-oru%C3%A7o%C4%9Flu/">LinkedIn</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/onur.jpeg" width="110" height="110" alt="Onur Ulusoy" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/onur-ulusoy-450873188/">Onur Ulusoy</a></h3>
-      <p><strong>UI Designer</strong><br/>ACK Techs</p>
-      <p align="left">Arayüz tasarımı alanında kendini geliştiriyor. Sade, anlaşılır ve görsel açıdan tutarlı ekranlar tasarlamaya odaklanıyor; gerçek ürünlerde sorumluluk alarak ve ekiple birlikte üreterek sektörde deneyim kazanmayı hedefliyor.</p>
-      <p>UI Design · Arayüz Tasarımı</p>
-      <p><a href="https://www.linkedin.com/in/onur-ulusoy-450873188/">LinkedIn</a></p>
     </td>
   </tr>
 </table>
