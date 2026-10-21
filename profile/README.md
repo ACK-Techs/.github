@@ -177,6 +177,46 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p><a href="https://github.com/aynurorucoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aynur-oru%C3%A7o%C4%9Flu/">LinkedIn</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/bora-bal.jpeg" width="110" height="110" alt="Bora Bal" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/borabal/">Bora Bal</a></h3>
+      <p><strong>UI Designer</strong><br/>ACK Techs</p>
+      <p align="left">Görsel iletişim tasarımı altyapısını grafik tasarım ve kurumsal kimlik çalışmalarıyla birleştiriyor. ACK Techs’te ürünlerin görsel diline ve kullanıcı arayüzlerinin tasarımına katkı sağlıyor.</p>
+      <p>UI Design · Visual Design · Brand Identity</p>
+      <p><a href="https://github.com/BoraB910">GitHub</a> · <a href="https://www.linkedin.com/in/borabal/">LinkedIn</a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/saadet-kara.png" width="110" height="110" alt="Saadet Kara" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/saadet-kara/">Saadet Kara</a></h3>
+      <p><strong>UI/UX · AI-Native Product Designer</strong><br/>ACK Techs</p>
+      <p align="left">UX stratejisi, ürün düşüncesi ve görsel tasarımı yapay zekâ odaklı iş akışlarıyla bir araya getiriyor. Kullanıcı araştırması, tasarım sistemleri ve prototipleme ile karmaşık problemleri insanı ve çevresel etkiyi gözeten sade dijital deneyimlere dönüştürüyor.</p>
+      <p>UI/UX · UX Research · Prototyping · AI-Native Design</p>
+      <p><a href="https://github.com/saadetlab">GitHub</a> · <a href="https://www.linkedin.com/in/saadet-kara/">LinkedIn</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/alp-seker.jpeg" width="110" height="110" alt="Alp Şeker" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/alpseker/">Alp Şeker</a></h3>
+      <p><strong>UI/UX &amp; Product Designer</strong><br/>ACK Techs</p>
+      <p align="left">Studio Scale ve bankacılık ürünlerindeki deneyimiyle araştırmadan arayüze ve geliştirici teslimine kadar uçtan uca ürün tasarlıyor. Tasarım sistemleri, veri yoğun ekranlar ve erişilebilirlik odaklı çalışmalarıyla karmaşık ürün akışlarını anlaşılır deneyimlere dönüştürüyor.</p>
+      <p>UI/UX · Product Design · Design Systems · Accessibility</p>
+      <p><a href="https://github.com/zeusmomo">GitHub</a> · <a href="https://www.linkedin.com/in/alpseker/">LinkedIn</a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu.jpeg" width="110" height="110" alt="Nisan Aksu" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></h3>
+      <p><strong>Marketing &amp; Social Media</strong><br/>ACK Techs</p>
+      <p align="left">Gazi Üniversitesi’nde istatistik eğitimi alıyor; HUAWEI Student Developers Türkiye’de çekirdek ekip üyesi olarak topluluk çalışmalarına katılıyor. ACK Techs’in pazarlama ve sosyal medya çalışmalarına katkı sağlayarak ürünlerin hikâyesini dijital kanallarda paylaşıyor.</p>
+      <p>Marketing · Social Media · Content · Community</p>
+      <p><a href="https://www.linkedin.com/in/nisanaksu/">LinkedIn</a></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
