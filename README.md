@@ -108,65 +108,16 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p><a href="https://github.com/caglarkc">GitHub</a> · <a href="https://www.linkedin.com/in/ali-caglar-kocer/">LinkedIn</a></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/dogukan-taha-tiras.png" width="110" height="110" alt="Doğukan Taha Tıraş" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/alp-seker.jpeg" width="110" height="110" alt="Alp Şeker" />
       <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></h3>
-      <p><strong>Co-Founder · Frontend &amp; AI Lead</strong><br/>Turkish Airlines</p>
-      <p align="left">Modern React/Next.js arayüzleri, Haier Europe Datathon 4.lüğü ve Learning-to-Rank arama optimizasyonu.</p>
-      <p>Next.js · React · Data Science · Semantic Search</p>
-      <p><a href="https://github.com/dodovlski">GitHub</a> · <a href="https://www.linkedin.com/in/dogukantahatiras/">LinkedIn</a></p>
+      <h3><a href="https://www.linkedin.com/in/alpseker/">Alp Şeker</a></h3>
+      <p><strong>UI/UX &amp; Product Designer</strong><br/>ACK Techs</p>
+      <p align="left">Studio Scale ve bankacılık ürünlerindeki deneyimiyle araştırmadan arayüze ve geliştirici teslimine kadar uçtan uca ürün tasarlıyor. Tasarım sistemleri, veri yoğun ekranlar ve erişilebilirlik odaklı çalışmalarıyla karmaşık ürün akışlarını anlaşılır deneyimlere dönüştürüyor.</p>
+      <p>UI/UX · Product Design · Design Systems · Accessibility</p>
+      <p><a href="https://github.com/zeusmomo">GitHub</a> · <a href="https://www.linkedin.com/in/alpseker/">LinkedIn</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.jpeg" width="110" height="110" alt="Ayşenur Demezoğlu" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/aysenurdemezoglu/">Ayşenur Demezoğlu</a></h3>
-      <p><strong>Frontend Developer</strong><br/>Iceberg Digital</p>
-      <p align="left">Hızlı, erişilebilir ve karakterli arayüzler kuruyor; karmaşık ürün akışlarını sade bileşenlere indirgiyor.</p>
-      <p>React · Next.js · TypeScript · CSS</p>
-      <p><a href="https://github.com/aysenurdemezoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aysenurdemezoglu/">LinkedIn</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/batuhan-evleksiz.jpeg" width="110" height="110" alt="Batuhan Evleksiz" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/batuhanevleksiz/">Batuhan Evleksiz</a></h3>
-      <p><strong>Full-Stack Developer &amp; AI</strong><br/>ACK Techs</p>
-      <p align="left">Modern web teknolojileriyle ölçeklenebilir ve kullanıcı odaklı ürünler geliştiriyor. Frontend ve backend süreçlerini birlikte ele alırken yapay zekâ destekli çözümleri gerçek problemlere uyguluyor.</p>
-      <p>React · TypeScript · Full-Stack · AI</p>
-      <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayselin-aydogdu.png" width="110" height="110" alt="Ayselin Aydoğdu" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/ayselin-aydo%C4%9Fdu-b4a783293/">Ayselin Aydoğdu</a></h3>
-      <p><strong>AI Engineer</strong><br/>ACK Techs</p>
-      <p align="left">Dil modellerini ürünün içine gömüyor; ajan akışlarını, değerlendirme döngülerini ve gerçek kullanım senaryolarını tasarlıyor.</p>
-      <p>LLM · AI Agents · Python · Eval</p>
-      <p><a href="https://www.linkedin.com/in/ayselin-aydo%C4%9Fdu-b4a783293/">LinkedIn</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayse-sena.png" width="110" height="110" alt="Ayşe Sena Bağdat" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">Ayşe Sena Bağdat</a></h3>
-      <p><strong>AI &amp; Data | Cybersecurity</strong><br/>ACK Techs</p>
-      <p align="left">Yapay zekâ, veri ve siber güvenlik alanlarında çalışıyor. Araştırma ve analitik yaklaşımı teknolojiyle birleştirerek gerçek problemlere yönelik yenilikçi ve güvenli çözümler geliştiriyor.</p>
-      <p>AI · Data · Cybersecurity · Research</p>
-      <p><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">LinkedIn</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/mehmet-yildiz.png" width="110" height="110" alt="Mehmet Yıldız" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/mehmetyildizbst/">Mehmet Yıldız</a></h3>
-      <p><strong>AI Engineer</strong><br/>ACK Techs</p>
-      <p align="left">Python, veri mühendisliği ve backend temelli bir AI engineer. Modelleri gerçek sistemlere bağlayan katmanı kuruyor; veri boru hatlarından ürün içi yapay zekâ akışlarına kadar uçtan uca düşünüyor.</p>
-      <p>Python · SQL · Data Eng · ML</p>
-      <p><a href="https://www.linkedin.com/in/mehmetyildizbst/">LinkedIn</a></p>
-    </td>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aynur.jpeg" width="110" height="110" alt="Aynur Oruçoğlu" />
       <br/><br/>
@@ -176,8 +127,46 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p>Python · TensorFlow · OpenCV · Full-Stack</p>
       <p><a href="https://github.com/aynurorucoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aynur-oru%C3%A7o%C4%9Flu/">LinkedIn</a></p>
     </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayselin-aydogdu.png" width="110" height="110" alt="Ayselin Aydoğdu" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/ayselin-aydo%C4%9Fdu-b4a783293/">Ayselin Aydoğdu</a></h3>
+      <p><strong>AI Engineer</strong><br/>ACK Techs</p>
+      <p align="left">Dil modellerini ürünün içine gömüyor; ajan akışlarını, değerlendirme döngülerini ve gerçek kullanım senaryolarını tasarlıyor.</p>
+      <p>LLM · AI Agents · Python · Eval</p>
+      <p><a href="https://www.linkedin.com/in/ayselin-aydo%C4%9Fdu-b4a783293/">LinkedIn</a></p>
+    </td>
   </tr>
   <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayse-sena.png" width="110" height="110" alt="Ayşe Sena Bağdat" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">Ayşe Sena Bağdat</a></h3>
+      <p><strong>AI &amp; Data | Cybersecurity</strong><br/>ACK Techs</p>
+      <p align="left">Yapay zekâ, veri ve siber güvenlik alanlarında çalışıyor. Araştırma ve analitik yaklaşımı teknolojiyle birleştirerek gerçek problemlere yönelik yenilikçi ve güvenli çözümler geliştiriyor.</p>
+      <p>AI · Data · Cybersecurity · Research</p>
+      <p><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">LinkedIn</a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.jpeg" width="110" height="110" alt="Ayşenur Demezoğlu" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/aysenurdemezoglu/">Ayşenur Demezoğlu</a></h3>
+      <p><strong>Frontend Developer</strong><br/>Iceberg Digital</p>
+      <p align="left">Hızlı, erişilebilir ve karakterli arayüzler kuruyor; karmaşık ürün akışlarını sade bileşenlere indirgiyor.</p>
+      <p>React · Next.js · TypeScript · CSS</p>
+      <p><a href="https://github.com/aysenurdemezoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aysenurdemezoglu/">LinkedIn</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/batuhan-evleksiz.jpeg" width="110" height="110" alt="Batuhan Evleksiz" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/batuhanevleksiz/">Batuhan Evleksiz</a></h3>
+      <p><strong>Full-Stack Developer &amp; AI</strong><br/>ACK Techs</p>
+      <p align="left">Modern web teknolojileriyle ölçeklenebilir ve kullanıcı odaklı ürünler geliştiriyor. Frontend ve backend süreçlerini birlikte ele alırken yapay zekâ destekli çözümleri gerçek problemlere uyguluyor.</p>
+      <p>React · TypeScript · Full-Stack · AI</p>
+      <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
+    </td>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/bora-bal.jpeg" width="110" height="110" alt="Bora Bal" />
       <br/><br/>
@@ -187,6 +176,37 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p>UI Design · Visual Design · Brand Identity</p>
       <p><a href="https://github.com/BoraB910">GitHub</a> · <a href="https://www.linkedin.com/in/borabal/">LinkedIn</a></p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/dogukan-taha-tiras.png" width="110" height="110" alt="Doğukan Taha Tıraş" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></h3>
+      <p><strong>Co-Founder · Frontend &amp; AI Lead</strong><br/>Turkish Airlines</p>
+      <p align="left">Modern React/Next.js arayüzleri, Haier Europe Datathon 4.lüğü ve Learning-to-Rank arama optimizasyonu.</p>
+      <p>Next.js · React · Data Science · Semantic Search</p>
+      <p><a href="https://github.com/dodovlski">GitHub</a> · <a href="https://www.linkedin.com/in/dogukantahatiras/">LinkedIn</a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/mehmet-yildiz.png" width="110" height="110" alt="Mehmet Yıldız" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/mehmetyildizbst/">Mehmet Yıldız</a></h3>
+      <p><strong>AI Engineer</strong><br/>ACK Techs</p>
+      <p align="left">Python, veri mühendisliği ve backend temelli bir AI engineer. Modelleri gerçek sistemlere bağlayan katmanı kuruyor; veri boru hatlarından ürün içi yapay zekâ akışlarına kadar uçtan uca düşünüyor.</p>
+      <p>Python · SQL · Data Eng · ML</p>
+      <p><a href="https://www.linkedin.com/in/mehmetyildizbst/">LinkedIn</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu.jpeg" width="110" height="110" alt="Nisan Aksu" />
+      <br/><br/>
+      <h3><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></h3>
+      <p><strong>Marketing &amp; Social Media</strong><br/>ACK Techs</p>
+      <p align="left">Gazi Üniversitesi’nde istatistik eğitimi alıyor; HUAWEI Student Developers Türkiye’de çekirdek ekip üyesi olarak topluluk çalışmalarına katılıyor. ACK Techs’in pazarlama ve sosyal medya çalışmalarını yöneterek ürünlerin hikâyesini dijital kanallarda paylaşıyor.</p>
+      <p>Marketing · Social Media · Content · Community</p>
+      <p><a href="https://www.linkedin.com/in/nisanaksu/">LinkedIn</a></p>
+    </td>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/saadet-kara.png" width="110" height="110" alt="Saadet Kara" />
       <br/><br/>
@@ -195,26 +215,6 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p align="left">UX stratejisi, ürün düşüncesi ve görsel tasarımı yapay zekâ odaklı iş akışlarıyla bir araya getiriyor. Kullanıcı araştırması, tasarım sistemleri ve prototipleme ile karmaşık problemleri insanı ve çevresel etkiyi gözeten sade dijital deneyimlere dönüştürüyor.</p>
       <p>UI/UX · UX Research · Prototyping · AI-Native Design</p>
       <p><a href="https://github.com/saadetlab">GitHub</a> · <a href="https://www.linkedin.com/in/saadet-kara/">LinkedIn</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/alp-seker.jpeg" width="110" height="110" alt="Alp Şeker" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/alpseker/">Alp Şeker</a></h3>
-      <p><strong>UI/UX &amp; Product Designer</strong><br/>ACK Techs</p>
-      <p align="left">Studio Scale ve bankacılık ürünlerindeki deneyimiyle araştırmadan arayüze ve geliştirici teslimine kadar uçtan uca ürün tasarlıyor. Tasarım sistemleri, veri yoğun ekranlar ve erişilebilirlik odaklı çalışmalarıyla karmaşık ürün akışlarını anlaşılır deneyimlere dönüştürüyor.</p>
-      <p>UI/UX · Product Design · Design Systems · Accessibility</p>
-      <p><a href="https://github.com/zeusmomo">GitHub</a> · <a href="https://www.linkedin.com/in/alpseker/">LinkedIn</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu.jpeg" width="110" height="110" alt="Nisan Aksu" />
-      <br/><br/>
-      <h3><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></h3>
-      <p><strong>Marketing &amp; Social Media</strong><br/>ACK Techs</p>
-      <p align="left">Gazi Üniversitesi’nde istatistik eğitimi alıyor; HUAWEI Student Developers Türkiye’de çekirdek ekip üyesi olarak topluluk çalışmalarına katılıyor. ACK Techs’in pazarlama ve sosyal medya çalışmalarına katkı sağlayarak ürünlerin hikâyesini dijital kanallarda paylaşıyor.</p>
-      <p>Marketing · Social Media · Content · Community</p>
-      <p><a href="https://www.linkedin.com/in/nisanaksu/">LinkedIn</a></p>
     </td>
   </tr>
 </table>
