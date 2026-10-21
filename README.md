@@ -168,7 +168,7 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
       <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/bora-bal.jpeg" width="110" height="110" alt="Bora Bal" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/bora-bal-clean.jpeg" width="110" height="110" alt="Bora Bal" />
       <br/><br/>
       <h3><a href="https://www.linkedin.com/in/borabal/">Bora Bal</a></h3>
       <p><strong>UI Designer</strong><br/>ACK Techs</p>
@@ -199,7 +199,7 @@ Her biri farklı bir güçle masaya oturuyor. Birlikte daha büyük işler çık
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu.jpeg" width="110" height="110" alt="Nisan Aksu" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu-clean.jpeg" width="110" height="110" alt="Nisan Aksu" />
       <br/><br/>
       <h3><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></h3>
       <p><strong>Marketing &amp; Social Media</strong><br/>ACK Techs</p>
