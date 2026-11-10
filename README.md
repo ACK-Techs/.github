@@ -65,11 +65,6 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/ayse-sena.png" width="80" height="80" alt="Ayşe Sena Bağdat" />
-      <p><strong><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">Ayşe Sena Bağdat</a></strong><br/><sub>AI &amp; Data | Cybersecurity</sub></p>
-      <p><a href="https://www.linkedin.com/in/ay%C5%9Fe-sena-ba%C4%9Fdat/">LinkedIn</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.jpeg" width="80" height="80" alt="Ayşenur Demezoğlu" />
       <p><strong><a href="https://www.linkedin.com/in/aysenurdemezoglu/">Ayşenur Demezoğlu</a></strong><br/><sub>Frontend Developer</sub></p>
       <p><a href="https://github.com/aysenurdemezoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aysenurdemezoglu/">LinkedIn</a></p>
@@ -79,29 +74,17 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
       <p><strong><a href="https://www.linkedin.com/in/batuhanevleksiz/">Batuhan Evleksiz</a></strong><br/><sub>Full-Stack Developer &amp; AI</sub></p>
       <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/bora-bal-clean.jpeg" width="80" height="80" alt="Bora Bal" />
-      <p><strong><a href="https://www.linkedin.com/in/borabal/">Bora Bal</a></strong><br/><sub>UI Designer</sub></p>
-      <p><a href="https://github.com/BoraB910">GitHub</a> · <a href="https://www.linkedin.com/in/borabal/">LinkedIn</a></p>
-    </td>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/dogukan-taha-tiras.png" width="80" height="80" alt="Doğukan Taha Tıraş" />
-      <p><strong><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></strong><br/><sub>Co-Founder · Frontend &amp; AI Lead</sub></p>
+      <p><strong><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></strong><br/><sub>Frontend &amp; AI Lead</sub></p>
       <p><a href="https://github.com/dodovlski">GitHub</a> · <a href="https://www.linkedin.com/in/dogukantahatiras/">LinkedIn</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu-clean.jpeg" width="80" height="80" alt="Nisan Aksu" />
-      <p><strong><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></strong><br/><sub>Marketing &amp; Social Media</sub></p>
-      <p><a href="https://www.linkedin.com/in/nisanaksu/">LinkedIn</a></p>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/saadet-kara.png" width="80" height="80" alt="Saadet Kara" />
-      <p><strong><a href="https://www.linkedin.com/in/saadet-kara/">Saadet Kara</a></strong><br/><sub>UI/UX · AI-Native Product Designer</sub></p>
-      <p><a href="https://github.com/saadetlab">GitHub</a> · <a href="https://www.linkedin.com/in/saadet-kara/">LinkedIn</a></p>
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu-clean.jpeg" width="80" height="80" alt="Nisan Aksu" />
+      <p><strong><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></strong><br/><sub>Co-Founder · Marketing &amp; Social Media</sub></p>
+      <p><a href="https://www.linkedin.com/in/nisanaksu/">LinkedIn</a></p>
     </td>
   </tr>
 </table>
@@ -127,12 +110,6 @@ AI algoritmaları (Python, TensorFlow, OpenCV) ve modern web teknolojileriyle u�
 
 Dil modellerini ürünün içine gömüyor; ajan akışlarını, değerlendirme döngülerini ve gerçek kullanım senaryolarını tasarlıyor.
 
-### Ayşe Sena Bağdat
-
-**AI & Data | Cybersecurity**
-
-Yapay zekâ, veri ve siber güvenlik alanlarında çalışıyor. Araştırma ve analitik yaklaşımı teknolojiyle birleştirerek gerçek problemlere yönelik yenilikçi ve güvenli çözümler geliştiriyor.
-
 ### Ayşenur Demezoğlu
 
 **Frontend Developer**
@@ -145,29 +122,17 @@ Hızlı, erişilebilir ve karakterli arayüzler kuruyor; karmaşık ürün akı�
 
 Modern web teknolojileriyle ölçeklenebilir ve kullanıcı odaklı ürünler geliştiriyor. Frontend ve backend süreçlerini birlikte ele alırken yapay zekâ destekli çözümleri gerçek problemlere uyguluyor.
 
-### Bora Bal
-
-**UI Designer**
-
-Görsel iletişim tasarımı altyapısını grafik tasarım ve kurumsal kimlik çalışmalarıyla birleştiriyor. ACK Techs’te ürünlerin görsel diline ve kullanıcı arayüzlerinin tasarımına katkı sağlıyor.
-
 ### Doğukan Taha Tıraş
 
-**Co-Founder · Frontend & AI Lead**
+**Frontend & AI Lead**
 
 Modern React/Next.js arayüzleri, Haier Europe Datathon 4.lüğü ve Learning-to-Rank arama optimizasyonu.
 
 ### Nisan Aksu
 
-**Marketing & Social Media**
+**Co-Founder · Marketing & Social Media**
 
 Gazi Üniversitesi’nde istatistik eğitimi alıyor; HUAWEI Student Developers Türkiye’de çekirdek ekip üyesi olarak topluluk çalışmalarına katılıyor. ACK Techs’in pazarlama ve sosyal medya çalışmalarını yöneterek ürünlerin hikâyesini dijital kanallarda paylaşıyor.
-
-### Saadet Kara
-
-**UI/UX · AI-Native Product Designer**
-
-UX stratejisi, ürün düşüncesi ve görsel tasarımı yapay zekâ odaklı iş akışlarıyla bir araya getiriyor. Kullanıcı araştırması, tasarım sistemleri ve prototipleme ile karmaşık problemleri insanı ve çevresel etkiyi gözeten sade dijital deneyimlere dönüştürüyor.
 
 </details>
 
