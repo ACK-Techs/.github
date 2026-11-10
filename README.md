@@ -76,7 +76,7 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/dogukan-taha-tiras.png" width="80" height="80" alt="Doğukan Taha Tıraş" />
-      <p><strong><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></strong><br/><sub>Frontend &amp; AI Lead</sub></p>
+      <p><strong><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></strong><br/><sub>Frontend Lead</sub></p>
       <p><a href="https://github.com/dodovlski">GitHub</a> · <a href="https://www.linkedin.com/in/dogukantahatiras/">LinkedIn</a></p>
     </td>
   </tr>
@@ -124,7 +124,7 @@ Modern web teknolojileriyle ölçeklenebilir ve kullanıcı odaklı ürünler ge
 
 ### Doğukan Taha Tıraş
 
-**Frontend & AI Lead**
+**Frontend Lead**
 
 Modern React/Next.js arayüzleri, Haier Europe Datathon 4.lüğü ve Learning-to-Rank arama optimizasyonu.
 
