@@ -110,12 +110,6 @@ AI algoritmaları (Python, TensorFlow, OpenCV) ve modern web teknolojileriyle u�
 
 Dil modellerini ürünün içine gömüyor; ajan akışlarını, değerlendirme döngülerini ve gerçek kullanım senaryolarını tasarlıyor.
 
-### Ayşenur Demezoğlu
-
-**Frontend Developer**
-
-Hızlı, erişilebilir ve karakterli arayüzler kuruyor; karmaşık ürün akışlarını sade bileşenlere indirgiyor.
-
 ### Batuhan Evleksiz
 
 **Full-Stack Developer & AI**
