@@ -65,11 +65,6 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/aysenur-demezoglu.jpeg" width="80" height="80" alt="Ayşenur Demezoğlu" />
-      <p><strong><a href="https://www.linkedin.com/in/aysenurdemezoglu/">Ayşenur Demezoğlu</a></strong><br/><sub>Frontend Developer</sub></p>
-      <p><a href="https://github.com/aysenurdemezoglu">GitHub</a> · <a href="https://www.linkedin.com/in/aysenurdemezoglu/">LinkedIn</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/batuhan-evleksiz.jpeg" width="80" height="80" alt="Batuhan Evleksiz" />
       <p><strong><a href="https://www.linkedin.com/in/batuhanevleksiz/">Batuhan Evleksiz</a></strong><br/><sub>Full-Stack Developer &amp; AI</sub></p>
       <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
@@ -79,8 +74,6 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
       <p><strong><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></strong><br/><sub>Frontend Lead</sub></p>
       <p><a href="https://github.com/dodovlski">GitHub</a> · <a href="https://www.linkedin.com/in/dogukantahatiras/">LinkedIn</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu-clean.jpeg" width="80" height="80" alt="Nisan Aksu" />
       <p><strong><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></strong><br/><sub>Co-Founder · Marketing &amp; Social Media</sub></p>
