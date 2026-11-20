@@ -75,12 +75,17 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
       <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
     </td>
     <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/doga-dogruoglu.jpeg" width="80" height="80" alt="Doğa Doğruoğlu" />
+      <p><strong><a href="https://www.linkedin.com/in/doga-dogruoglu/">Doğa Doğruoğlu</a></strong><br/><sub>UI/UX Developer</sub></p>
+      <p><a href="https://www.linkedin.com/in/doga-dogruoglu/">LinkedIn</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/dogukan-taha-tiras.png" width="80" height="80" alt="Doğukan Taha Tıraş" />
       <p><strong><a href="https://www.linkedin.com/in/dogukantahatiras/">Doğukan Taha Tıraş</a></strong><br/><sub>Frontend Lead</sub></p>
       <p><a href="https://github.com/dodovlski">GitHub</a> · <a href="https://www.linkedin.com/in/dogukantahatiras/">LinkedIn</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/nisan-aksu-clean.jpeg" width="80" height="80" alt="Nisan Aksu" />
       <p><strong><a href="https://www.linkedin.com/in/nisanaksu/">Nisan Aksu</a></strong><br/><sub>Co-Founder · Marketing &amp; Social Media</sub></p>
@@ -121,6 +126,12 @@ Hızlı, erişilebilir ve karakterli arayüzler kuruyor; karmaşık ürün akı�
 **Full-Stack Developer & AI**
 
 Modern web teknolojileriyle ölçeklenebilir ve kullanıcı odaklı ürünler geliştiriyor. Frontend ve backend süreçlerini birlikte ele alırken yapay zekâ destekli çözümleri gerçek problemlere uyguluyor.
+
+### Doğa Doğruoğlu
+
+**UI/UX Developer**
+
+ODTÜ Endüstriyel Tasarım mezunu. ACK Techs’te kullanıcı ihtiyaçlarını anlaşılır ürün akışlarına ve arayüzlere dönüştürüyor. Figma’da tasarımlarını prototipleyerek fikirlerin geliştirme öncesinde denenmesine katkı sağlıyor.
 
 ### Doğukan Taha Tıraş
 
