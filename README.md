@@ -75,7 +75,7 @@ Mühendislik, yapay zekâ, tasarım ve pazarlama. Farklı uzmanlıklar, ortak ü
       <p><a href="https://www.linkedin.com/in/batuhanevleksiz/">LinkedIn</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/doga-dogruoglu.jpeg" width="80" height="80" alt="Doğa Doğruoğlu" />
+      <img src="https://raw.githubusercontent.com/ACK-Techs/.github/main/assets/team/doga-dogruoglu-clean.png" width="80" height="80" alt="Doğa Doğruoğlu" />
       <p><strong><a href="https://www.linkedin.com/in/doga-dogruoglu/">Doğa Doğruoğlu</a></strong><br/><sub>UI/UX Developer</sub></p>
       <p><a href="https://www.linkedin.com/in/doga-dogruoglu/">LinkedIn</a></p>
     </td>
